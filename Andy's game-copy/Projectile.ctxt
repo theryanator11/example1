@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Projectile
+comment1.params=startX\ startY
+comment1.target=Projectile(int,\ int)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4

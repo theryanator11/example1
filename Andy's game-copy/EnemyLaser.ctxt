@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EnemyLaser
+comment1.params=startX\ startY\ dx\ dy
+comment1.target=EnemyLaser(double,\ double,\ double,\ double)
+comment2.params=gp
+comment2.target=void\ update(GamePanel)
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4

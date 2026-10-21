@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=gp\ keyH
+comment1.target=Player(GamePanel,\ KeyHandler)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4

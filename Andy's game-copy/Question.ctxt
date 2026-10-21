@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Question
+comment1.params=prompt\ answer
+comment1.target=Question(java.lang.String,\ java.lang.String)
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Turret
+comment1.params=gp\ x\ y
+comment1.target=Turret(GamePanel,\ int,\ int)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4
